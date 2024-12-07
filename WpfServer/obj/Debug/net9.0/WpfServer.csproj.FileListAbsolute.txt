@@ -1,0 +1,14 @@
+C:\Users\Влад\Desktop\test-wpf\WpfServer\bin\Debug\net9.0\WpfServer.exe
+C:\Users\Влад\Desktop\test-wpf\WpfServer\bin\Debug\net9.0\WpfServer.deps.json
+C:\Users\Влад\Desktop\test-wpf\WpfServer\bin\Debug\net9.0\WpfServer.runtimeconfig.json
+C:\Users\Влад\Desktop\test-wpf\WpfServer\bin\Debug\net9.0\WpfServer.dll
+C:\Users\Влад\Desktop\test-wpf\WpfServer\bin\Debug\net9.0\WpfServer.pdb
+C:\Users\Влад\Desktop\test-wpf\WpfServer\obj\Debug\net9.0\WpfServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Влад\Desktop\test-wpf\WpfServer\obj\Debug\net9.0\WpfServer.AssemblyInfoInputs.cache
+C:\Users\Влад\Desktop\test-wpf\WpfServer\obj\Debug\net9.0\WpfServer.AssemblyInfo.cs
+C:\Users\Влад\Desktop\test-wpf\WpfServer\obj\Debug\net9.0\WpfServer.csproj.CoreCompileInputs.cache
+C:\Users\Влад\Desktop\test-wpf\WpfServer\obj\Debug\net9.0\WpfServer.dll
+C:\Users\Влад\Desktop\test-wpf\WpfServer\obj\Debug\net9.0\refint\WpfServer.dll
+C:\Users\Влад\Desktop\test-wpf\WpfServer\obj\Debug\net9.0\WpfServer.pdb
+C:\Users\Влад\Desktop\test-wpf\WpfServer\obj\Debug\net9.0\WpfServer.genruntimeconfig.cache
+C:\Users\Влад\Desktop\test-wpf\WpfServer\obj\Debug\net9.0\ref\WpfServer.dll
