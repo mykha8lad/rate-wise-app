@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "nBDpoiPuy08=",
+  "dgSpecHash": "iXTp7TXoTug=",
   "success": true,
   "projectFilePath": "C:\\Users\\Влад\\Desktop\\test-wpf\\WpfClient\\WpfClient.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Влад\\.nuget\\packages\\system.net.http.json\\9.0.0\\system.net.http.json.9.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

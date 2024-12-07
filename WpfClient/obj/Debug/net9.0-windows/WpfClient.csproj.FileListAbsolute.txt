@@ -17,3 +17,4 @@ C:\Users\Влад\Desktop\test-wpf\WpfClient\obj\Debug\net9.0-windows\refint\Wpf
 C:\Users\Влад\Desktop\test-wpf\WpfClient\obj\Debug\net9.0-windows\WpfClient.pdb
 C:\Users\Влад\Desktop\test-wpf\WpfClient\obj\Debug\net9.0-windows\WpfClient.genruntimeconfig.cache
 C:\Users\Влад\Desktop\test-wpf\WpfClient\obj\Debug\net9.0-windows\ref\WpfClient.dll
+C:\Users\Влад\Desktop\test-wpf\WpfClient\obj\Debug\net9.0-windows\WpfClient.sourcelink.json

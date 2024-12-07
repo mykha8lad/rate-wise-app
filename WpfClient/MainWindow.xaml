@@ -1,15 +1,8 @@
 ﻿<Window x:Class="WpfClient.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="WPF Client" Height="200" Width="400">
+        Title="Currency Rates" Height="450" Width="800">
     <Grid>
-        <!-- Поле для ввода текста -->
-        <TextBox Name="MessageInput" Height="30" Margin="10" VerticalAlignment="Top" />
-        
-        <!-- Кнопка отправки -->
-        <Button Content="Отправить" Height="30" Margin="10" VerticalAlignment="Center" Click="OnSendClick" />
-        
-        <!-- Поле для отображения ответа -->
-        <TextBlock Name="ResponseBlock" Margin="10" VerticalAlignment="Bottom" Height="30"/>
+        <DataGrid x:Name="CurrencyGrid" AutoGenerateColumns="True" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" />
     </Grid>
 </Window>
